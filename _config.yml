@@ -1,0 +1,74 @@
+# GitHub Pages Portfolio Configuration for Dhruv Charne
+
+# Site metadata
+title: "Dhruv Charne | Full-Stack Developer"
+description: "Portfolio of Dhruv Charne - A full-stack web developer specializing in modern web technologies, blockchain, and AI solutions."
+url: "https://DHRUVCHARNE.github.io"  # Replace with your actual GitHub Pages URL
+baseurl: ""
+
+# Repository information
+repository: "dhruv-charne/dhruv-charne.github.io"  # Replace with your actual repository
+github_username: "dhruv-charne"
+
+# Social media profiles
+social:
+  name: "Dhruv Charne"
+  links:
+    - "https://www.linkedin.com/in/dhruv-charne-908848213"  # Replace with actual LinkedIn profile
+    - "https://github.com/DHRUVCHARNE"  # Replace with actual GitHub profile
+    - "https://x.com/Dhruv4ne"  # Replace with actual X/Twitter profile
+
+# Theme configuration
+theme: jekyll-theme-cayman  # Clean, professional theme suitable for portfolios
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# SEO & Performance
+lang: en_US
+timezone: UTC
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - .git
+  - package.json
+  - package-lock.json
+
+# Include hidden files if needed
+include:
+  - ".nojekyll"
+
+# Sass configuration
+sass:
+  style: compressed
+
+# Build settings
+incremental: true
+lsi: false
+safe: false
+
+# Author information
+author:
+  name: "Dhruv Charne"
+  email: "dhruv4ne@gmail.com"  # Replace with your email
+  bio: "Full-Stack Developer | Blockchain Enthusiast | AI Innovator"
+
+# Twitter card settings
+twitter:
+  username: "Dhruv4ne"  # Replace with your Twitter handle
+
+# Open Graph settings
+og_image: "/assets/images/profile.png"  # Add a professional profile image
