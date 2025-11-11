@@ -2,6 +2,9 @@
 
 <div align="center">
 
+<!-- Profile Image -->
+<img src="profile.png" alt="Dhruv Charne" width="150" height="150" style="border-radius:50%; margin-bottom: 20px;">
+
 ## Welcome to My Digital Portfolio 🌐
 
 I'm a passionate full-stack web developer with expertise in modern web technologies, blockchain development, and artificial intelligence. This portfolio showcases my journey, skills, and contributions to the tech community.
