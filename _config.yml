@@ -7,8 +7,8 @@ url: "https://DHRUVCHARNE.github.io"  # Replace with your actual GitHub Pages UR
 baseurl: ""
 
 # Repository information
-repository: "dhruv-charne/dhruv-charne.github.io"  # Replace with your actual repository
-github_username: "dhruv-charne"
+repository: "DHRUVCHARNE/DHRUVCHARNE.github.io"  # Replace with your actual repository
+github_username: "DHRUVCHARNE"
 
 # Social media profiles
 social:
@@ -19,8 +19,8 @@ social:
     - "https://x.com/Dhruv4ne"  # Replace with actual X/Twitter profile
 
 # Theme configuration
-theme: jekyll-theme-cayman  # Clean, professional theme suitable for portfolios
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-slate  # Clean, professional theme suitable for portfolios
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
