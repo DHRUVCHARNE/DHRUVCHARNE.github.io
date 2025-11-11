@@ -1,4 +1,4 @@
-# Dhruv Charne - Full-Stack Developer & Web Development Enthusiast
+# Dhruv Charne - Full-Stack Web3 Developer &  AI Enthusiast
 
 <div align="center">
 
@@ -21,13 +21,13 @@ With a comprehensive background spanning both frontend and backend technologies,
 ## Core Expertise
 
 ### Full-Stack Web Development
-- **Frontend:** React, Vue.js, TypeScript, Tailwind CSS, Next.js
-- **Backend:** Node.js, Express.js, Python, RESTful APIs
-- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Frontend:** React,TypeScript, Tailwind CSS, Next.js
+- **Backend:** Node.js, Express.js, Python, RESTful APIs,Golang,Rust
+- **Databases:** PostgreSQL, MongoDB, Redis
 - **DevOps & Deployment:** Docker, GitHub Actions, AWS
 
 ### Blockchain Development
-- Smart Contract Development (Solidity)
+- Smart Contract Development (Solidity,Rust,Vyper)
 - Web3 Integration
 - DeFi & NFT Solutions
 - Ethereum Ecosystem
@@ -43,8 +43,8 @@ With a comprehensive background spanning both frontend and backend technologies,
 ## Education
 
 ### MITS Gwalior
-**Bachelor of Technology** in [Your Field of Study]
-- Rigorous coursework in Computer Science & Engineering
+**Bachelor of Technology** in Mathematics and Computing
+- Rigorous coursework in Computer Science & Mathematics
 - Strong foundation in algorithms, data structures, and software development
 - Active participation in technical clubs and projects
 
@@ -55,8 +55,11 @@ With a comprehensive background spanning both frontend and backend technologies,
 ### Cyfrin Updraft Certifications
 Completed comprehensive blockchain and smart contract development courses:
 - **Solidity Smart Contract Development**
-- **Web3 & Blockchain Fundamentals**
-- **Advanced Ethereum Development**
+- **Blockchain Basics**
+- **Rust Fundamentals**
+- **Introduction to Vyper and Python**
+- **Foundry Fundamentals**
+- **Web3 Wallet Security Basics**
 
 These certifications represent hands-on training in production-ready blockchain development and security best practices.
 
@@ -66,8 +69,8 @@ These certifications represent hands-on training in production-ready blockchain 
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | JavaScript, TypeScript, Python, Solidity, SQL |
-| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, Redux |
+| **Languages** | JavaScript, TypeScript, Python, Solidity, SQL,Go,Rust,Vyper |
+| **Frontend** | React, Next.js, Tailwind CSS, Redux |
 | **Backend** | Node.js, Express, FastAPI, Django, PostgreSQL |
 | **Web3** | Ethereum, Smart Contracts, Web3.js, ethers.js |
 | **AI/ML** | TensorFlow, PyTorch, OpenAI APIs, Prompt Engineering |
@@ -79,15 +82,16 @@ These certifications represent hands-on training in production-ready blockchain 
 
 *Highlight 3-5 of your best projects here. Example format:*
 
-### Project Name 1
-**Description:** A brief description of what the project does and its impact.
-- **Tech Stack:** Technologies used
-- **Link:** [View Project](link-to-project)
+### Speedrun Ethereum Tokenization Challenge
+**Description:** This project demonstrates a complete ERC-721 NFT Tokenization flow — from smart contract deployment on the Sepolia Testnet to an interactive Next.js + Vercel frontend for minting and viewing NFTs.
+- **Tech Stack:** Nextjs,Hardhat,Solidity,Tailwind,ScaffoldETH
+- **Link:** [View Project]([link-to-project](https://mynftmine.vercel.app/))
 
-### Project Name 2
-**Description:** Another showcase of your capabilities.
-- **Tech Stack:** Technologies used
-- **Link:** [View Project](link-to-project)
+### Decentralized Staking App
+**Description:** About
+A beginner-friendly decentralized application (dApp) that allows users to stake ETH in a smart contract. The app coordinates a group funding effort and interacts with an external contract, demonstrating the power of Ethereum for trustless cooperation.
+- **Tech Stack:** Nextjs,Hardhat,Solidity,Tailwind,ScaffoldETH
+- **Link:** [View Project](https://my-staking-dapp-zeta.vercel.app/)
 
 ---
 
@@ -95,25 +99,19 @@ These certifications represent hands-on training in production-ready blockchain 
 
 I'm always interested in collaborating on innovative projects, discussing new technologies, or exploring opportunities in full-stack development and blockchain. Feel free to reach out through any of these channels:
 
-- **LinkedIn:** [Dhruv Charne](https://linkedin.com/in/dhruv-charne)
-- **GitHub:** [@dhruv-charne](https://github.com/dhruv-charne)
-- **X (Twitter):** [@dhruv-charne](https://x.com/dhruv-charne)
-- **SpeedrunEthereum:** [Profile](https://speedrunethereum.com)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Dhruv Charne](https://www.linkedin.com/in/dhruv-charne-908848213)
+- **GitHub:** [@dhruv-charne](https://github.com/DHRUVCHARNE)
+- **X (Twitter):** [@dhruv-charne](https://x.com/Dhruv4ne)
+- **SpeedrunEthereum:** [Profile](https://speedrunethereum.com/builders/0x337c6Cc82221266B951f773E1AbD81eA0354ff25)
+- **Email:** [your-email@example.com](mailto:dhruv4ne@gmail.com)
 
 ---
 
-## Latest Activity
-
-### Recent Blog Posts / Updates
-- [Add your latest blog post or update here]
-- [Document recent achievements or learnings]
-- [Share insights about emerging technologies]
 
 ### Stats
-- **GitHub Contributions:** [Add your GitHub stats]
-- **Projects Completed:** [Add your count]
-- **Certifications Earned:** [Count from Cyfrin Updraft and others]
+- **GitHub Contributions:** 57 in the last year
+- **Projects Completed:** 15
+- **Certifications Earned:** 16
 
 ---
 
@@ -132,10 +130,10 @@ I believe in:
 
 Whether you're looking to collaborate, have a project in mind, or just want to chat about web development and technology, I'd love to hear from you!
 
-**📧 Email:** your-email@example.com  
-**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/dhruv-charne)  
-**🐙 GitHub:** [Follow my work](https://github.com/dhruv-charne)  
-**𝕏 Twitter:** [Stay updated](https://x.com/dhruv-charne)
+**📧 Email:** dhruv4ne@gmail.com  
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/dhruv-charne-908848213)  
+**🐙 GitHub:** [Follow my work](https://github.com/DHRUVCHARNE)  
+**𝕏 Twitter:** [Stay updated](https://x.com/Dhruv4ne)
 
 ---
 
@@ -152,24 +150,3 @@ This portfolio is open source and available under the MIT License. Feel free to 
 *Last Updated: November 2025*
 
 </div>
-\`\`\`
-
-Perfect! I've created a professional GitHub Pages portfolio configuration and README for Dhruv Charne. Here's what I've included:
-
-**`_config.yml` highlights:**
-- Complete Jekyll configuration with site metadata optimized for SEO
-- Clean Cayman theme (professional and minimal)
-- Social media links for all platforms (LinkedIn, GitHub, X, SpeedrunEthereum)
-- Essential plugins for GitHub Pages compatibility
-
-**`README.md` highlights:**
-- Compelling introduction and professional bio
-- Structured sections for expertise (Full-Stack, Blockchain, AI)
-- Education from MITS Gwalior
-- Cyfrin Updraft certifications documentation
-- Comprehensive skills table
-- Sections for featured projects and recent activity
-- Multiple contact options and social links
-- Professional tone throughout
-
-Both files are ready to use—just replace placeholder values (like URLs, email, and repository names) with actual information before deploying!
