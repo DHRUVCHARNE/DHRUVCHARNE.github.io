@@ -87,7 +87,7 @@ These certifications represent hands-on training in production-ready blockchain 
 ### Speedrun Ethereum Tokenization Challenge
 **Description:** This project demonstrates a complete ERC-721 NFT Tokenization flow — from smart contract deployment on the Sepolia Testnet to an interactive Next.js + Vercel frontend for minting and viewing NFTs.
 - **Tech Stack:** Nextjs,Hardhat,Solidity,Tailwind,ScaffoldETH
-- **Link:** [View Project]([link-to-project](https://mynftmine.vercel.app/))
+- **Link:** [View Project](https://mynftmine.vercel.app/)
 
 ### Decentralized Staking App
 **Description:** About
