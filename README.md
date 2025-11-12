@@ -83,7 +83,6 @@ These certifications represent hands-on training in production-ready blockchain 
 
 ## Featured Projects
 
-*Highlight 3-5 of your best projects here. Example format:*
 
 ### Speedrun Ethereum Tokenization Challenge
 **Description:** This project demonstrates a complete ERC-721 NFT Tokenization flow — from smart contract deployment on the Sepolia Testnet to an interactive Next.js + Vercel frontend for minting and viewing NFTs.
